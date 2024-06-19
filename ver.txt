@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.4</version>
+    <version>1.0.0.5</version>
     <url>http://192.168.1.168:8080/server/d/Debug.zip</url>
     <changelog>a</changelog>
     <mandatory mode="2">true</mandatory>
