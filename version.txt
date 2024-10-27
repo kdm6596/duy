@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.2.3</version>
+    <version>1.0.2.4</version>
     <url>https://github.com/kdm6596/fc/raw/refs/heads/main/Debug.zip</url>
     <changelog>a</changelog>
     <mandatory mode="2">true</mandatory>
